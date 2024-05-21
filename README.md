@@ -1,4 +1,4 @@
-# 2020_Text_Mining_Final_Project
+# Text Mining Project using DNN Model to Predict Australia's 30 Year Government Bond yield
 
 ## Main results
 - Used Australian news headlines to analyze economic indicators.
